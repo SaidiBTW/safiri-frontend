@@ -1,0 +1,72 @@
+.appBar {
+    height: 100px;
+
+}
+
+
+.toolbarMain {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: inherit;
+    height: 98px;
+    color: lightgoldenrodyellow
+}
+
+#header {
+    font-family: 'Tangerine', cursive;
+    font-family: 'Uchen', serif;
+    font-size: 40px;
+    margin-left: 5px;
+
+}
+
+#header1 {
+    font-family: 'Tangerine', cursive;
+    font-family: 'Uchen', serif;
+    font-size: 30px;
+
+}
+
+#introducing {
+    color: rgb(245, 189, 49);
+}
+
+#signInTypo {
+    position: absolute;
+    top: 0;
+    left: 20%;
+    color: rgba(218, 165, 32, 0.849);
+}
+
+#user {
+    font-family: 'Charmonman', cursive;
+    font-size: 35px;
+    padding-top: 5px;
+    
+}
+
+#logout {
+    border-radius: 0px 0px 0px 20px;
+    text-emphasis-color: black;
+}
+
+.h3Div {
+    color: goldenrod;
+}
+
+
+#loginButton {
+    border-radius: 30px 0px;
+    background-color: rgba(0, 0, 139, 0.432);
+}
+
+#phoneTypo {
+    color: rgb(245, 203, 97);
+}
+
+#emailTypo {
+    color: rgb(245, 203, 97);
+}

@@ -1,0 +1,19 @@
+.availableProducts{
+    width: '100%';
+    height: auto;
+    
+}
+.mainContainer{
+    padding-top: 110px;
+    
+}
+
+.mainDivContainer{
+
+    width: 215px;
+    height: 600px;
+    position: fixed;
+    border-right: 1px solid violet;
+    top: 0;
+
+}

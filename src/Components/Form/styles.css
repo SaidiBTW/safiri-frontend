@@ -1,0 +1,22 @@
+#notLoggedInPaper{
+
+    border-left: 1px solid violet;
+    position: fixed;
+    top: 100px;
+    right: 0;
+}
+
+#SafariImage{
+    object-fit: contain;
+    height: 410px;
+    width:400px;
+
+    
+}
+#safiriText{
+    position: relative;
+    right: -50px;
+    bottom: -40px;
+}
+
+/* beige , the best of all colors 😃 */
